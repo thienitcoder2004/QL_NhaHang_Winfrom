@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\RestaurantManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|c:\\users\\acer\\source\\repos\\restaurantmanagement\\restaurantmanagement.dal\\migrations\\202412270729581_initialcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|solutionrelative:restaurantmanagement.dal\\migrations\\202412270729581_initialcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|c:\\users\\acer\\source\\repos\\restaurantmanagement\\restaurantmanagement.dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|solutionrelative:restaurantmanagement.dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202412270729581_InitialCreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\RestaurantManagement\\RestaurantManagement.DAL\\Migrations\\202412270729581_InitialCreateDB.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.DAL\\Migrations\\202412270729581_InitialCreateDB.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\RestaurantManagement\\RestaurantManagement.DAL\\Migrations\\202412270729581_InitialCreateDB.cs",
+              "RelativeToolTip": "RestaurantManagement.DAL\\Migrations\\202412270729581_InitialCreateDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:30:02.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\RestaurantManagement\\RestaurantManagement.DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\RestaurantManagement\\RestaurantManagement.DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "RestaurantManagement.DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:23:06.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

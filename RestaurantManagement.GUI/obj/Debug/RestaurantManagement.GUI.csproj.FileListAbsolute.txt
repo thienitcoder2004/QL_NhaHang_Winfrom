@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe.config
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Properties.Resources.resources
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\obj\Debug\Restaura.BB893DD6.Up2Date
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\EntityFramework.dll
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\EntityFramework.xml
+C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.xml
