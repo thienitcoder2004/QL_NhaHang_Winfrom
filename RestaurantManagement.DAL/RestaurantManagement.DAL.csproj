@@ -61,9 +61,9 @@
     <Compile Include="Entities\RestaurantManagementDBContext.cs" />
     <Compile Include="Entities\Revenue.cs" />
     <Compile Include="Entities\Table.cs" />
-    <Compile Include="Migrations\202412270729581_InitialCreateDB.cs" />
-    <Compile Include="Migrations\202412270729581_InitialCreateDB.Designer.cs">
-      <DependentUpon>202412270729581_InitialCreateDB.cs</DependentUpon>
+    <Compile Include="Migrations\202412270746557_InitialCreateDB.cs" />
+    <Compile Include="Migrations\202412270746557_InitialCreateDB.Designer.cs">
+      <DependentUpon>202412270746557_InitialCreateDB.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -73,8 +73,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202412270729581_InitialCreateDB.resx">
-      <DependentUpon>202412270729581_InitialCreateDB.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202412270746557_InitialCreateDB.resx">
+      <DependentUpon>202412270746557_InitialCreateDB.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

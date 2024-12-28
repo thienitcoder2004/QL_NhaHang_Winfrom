@@ -12,3 +12,17 @@ C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Deb
 C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\RestaurantManagement.DAL.pdb
 C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\RestaurantManagement.DAL.Migrations.InitialCreateDB.resources
 C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\RestaurantManagement.DAL.csproj.GenerateResource.cache
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\bin\Debug\RestaurantManagement.DAL.dll.config
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\bin\Debug\RestaurantManagement.DAL.dll
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\bin\Debug\RestaurantManagement.DAL.pdb
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\bin\Debug\EntityFramework.dll
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\bin\Debug\EntityFramework.xml
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\obj\Debug\RestaurantManagement.DAL.csproj.AssemblyReference.cache
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\obj\Debug\RestaurantManagement.DAL.csproj.CoreCompileInputs.cache
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\obj\Debug\Restaura.508E73CA.Up2Date
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\obj\Debug\RestaurantManagement.DAL.dll
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\obj\Debug\RestaurantManagement.DAL.pdb
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\obj\Debug\RestaurantManagement.DAL.Migrations.InitialCreateDB.resources
+D:\Code\C#\QL_NhaHang\RestaurantManagement.DAL\obj\Debug\RestaurantManagement.DAL.csproj.GenerateResource.cache

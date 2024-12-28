@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RestaurantManagement.BUS
+﻿namespace RestaurantManagement.BUS
 {
-    internal class MenuService
+    public class MenuService
     {
+        public MenuService() { }
     }
 }

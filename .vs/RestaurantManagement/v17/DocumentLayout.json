@@ -1,12 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\RestaurantManagement\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Code\\C#\\QL_NhaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|d:\\code\\c#\\ql_nhahang\\restaurantmanagement.gui\\employee\\frmuiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\frmuiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|d:\\code\\c#\\ql_nhahang\\restaurantmanagement.gui\\employee\\frmuiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\frmuiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|d:\\code\\c#\\ql_nhahang\\restaurantmanagement.gui\\admin\\frmuiadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\frmuiadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|d:\\code\\c#\\ql_nhahang\\restaurantmanagement.gui\\employee\\usercontrol\\uc_settable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol\\uc_settable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmUIAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\QL_NhaHang\\RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs",
+              "ToolTip": "D:\\Code\\C#\\QL_NhaHang\\RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:43:53.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_SetTable.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\UserControl\\UC_SetTable.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl\\UC_SetTable.cs",
+              "ToolTip": "D:\\Code\\C#\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\UserControl\\UC_SetTable.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl\\UC_SetTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:36:39.433Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUIEmployee.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "ToolTip": "D:\\Code\\C#\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAEwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:31:42.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUIEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "ToolTip": "D:\\Code\\C#\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:30:11.353Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

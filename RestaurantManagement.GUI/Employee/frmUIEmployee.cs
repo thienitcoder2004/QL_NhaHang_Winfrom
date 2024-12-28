@@ -1,0 +1,81 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace RestaurantManagement.GUI.Employee
+{
+    public partial class frmUIEmployee : Form
+    {
+        private string loggedInUsername;
+
+        public frmUIEmployee(string username)
+        {
+            InitializeComponent();
+            loggedInUsername = username;
+            UC_Home uc_Home = new UC_Home();
+            addController(uc_Home);
+            lblPageChange.Text = "Home";
+        }
+
+        private void frmUIEmployee_Load(object sender, EventArgs e)
+        {
+            lblLoginUser.Text = $"Welcome, {loggedInUsername}!";
+        }
+
+
+        private void addController(UserControl userControl)
+        {
+            userControl.Dock = DockStyle.Fill;
+            pnlChangePage.Controls.Clear();
+            pnlChangePage.Controls.Add(userControl);
+            userControl.BringToFront();
+        }
+
+        private void btnHome_Click(object sender, EventArgs e)
+        {
+            UC_Home uc_Home = new UC_Home();
+            addController(uc_Home);
+            lblPageChange.Text = "Home";
+        }
+
+        private void btnKitchen_Click(object sender, EventArgs e)
+        {
+            UC_Kitchen uc_Kitchen = new UC_Kitchen();
+            addController(uc_Kitchen);
+            lblPageChange.Text = "Kit Chen";
+        }
+
+        private void btnTableStatus_Click(object sender, EventArgs e)
+        {
+            UC_TableStatus uc_TableStatus = new UC_TableStatus();
+            addController(uc_TableStatus);
+            lblPageChange.Text = "Table Status";
+        }
+        private void btnSetTable_Click(object sender, EventArgs e)
+        {
+            UC_SetTable uc_SetTable = new UC_SetTable();
+            addController(uc_SetTable);
+            lblPageChange.Text = "Set a Table";
+        }
+
+        private void guna2CircleButton1_Click(object sender, EventArgs e)
+        {
+            frmLogin frmLogin = new frmLogin();
+            frmLogin.Show();
+            Hide();
+        }
+
+        private void logo_Click(object sender, EventArgs e)
+        {
+            UC_Home uc_Home = new UC_Home();
+            addController(uc_Home);
+            lblPageChange.Text = "Home";
+        }
+
+        private void logo_Paint(object sender, PaintEventArgs e)
+        {
+            UC_Home uc_Home = new UC_Home();
+            addController(uc_Home);
+            lblPageChange.Text = "Home";
+        }
+    }
+}
