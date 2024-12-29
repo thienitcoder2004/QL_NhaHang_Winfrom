@@ -13,12 +13,12 @@ namespace RestaurantManagement.GUI.Employee
             loggedInUsername = username;
             UC_Home uc_Home = new UC_Home();
             addController(uc_Home);
-            lblPageChange.Text = "Home";
+            lblPageChange.Text = "Trang Chủ";
         }
 
         private void frmUIEmployee_Load(object sender, EventArgs e)
         {
-            lblLoginUser.Text = $"Welcome, {loggedInUsername}!";
+            lblLoginUser.Text = $"Xin Chào, {loggedInUsername}!";
         }
 
 
@@ -34,48 +34,47 @@ namespace RestaurantManagement.GUI.Employee
         {
             UC_Home uc_Home = new UC_Home();
             addController(uc_Home);
-            lblPageChange.Text = "Home";
+            lblPageChange.Text = "Trang Chủ";
         }
 
         private void btnKitchen_Click(object sender, EventArgs e)
         {
             UC_Kitchen uc_Kitchen = new UC_Kitchen();
             addController(uc_Kitchen);
-            lblPageChange.Text = "Kit Chen";
+            lblPageChange.Text = "Bếp";
         }
 
         private void btnTableStatus_Click(object sender, EventArgs e)
         {
             UC_TableStatus uc_TableStatus = new UC_TableStatus();
             addController(uc_TableStatus);
-            lblPageChange.Text = "Table Status";
+            lblPageChange.Text = "Tình Trạng Bàn";
         }
         private void btnSetTable_Click(object sender, EventArgs e)
         {
             UC_SetTable uc_SetTable = new UC_SetTable();
             addController(uc_SetTable);
-            lblPageChange.Text = "Set a Table";
-        }
-
-        private void guna2CircleButton1_Click(object sender, EventArgs e)
-        {
-            frmLogin frmLogin = new frmLogin();
-            frmLogin.Show();
-            Hide();
+            lblPageChange.Text = "Đặt Bàn";
         }
 
         private void logo_Click(object sender, EventArgs e)
         {
             UC_Home uc_Home = new UC_Home();
             addController(uc_Home);
-            lblPageChange.Text = "Home";
+            lblPageChange.Text = "Trang Chủ";
         }
 
         private void logo_Paint(object sender, PaintEventArgs e)
         {
             UC_Home uc_Home = new UC_Home();
             addController(uc_Home);
-            lblPageChange.Text = "Home";
+            lblPageChange.Text = "Trang Chủ";
+        }
+        private void guna2CircleButton1_Click(object sender, EventArgs e)
+        {
+            frmLogin frmLogin = new frmLogin();
+            frmLogin.Show();
+            Hide();
         }
     }
 }

@@ -37,12 +37,12 @@
             this.btnHome = new Guna.UI2.WinForms.Guna2Button();
             this.logo = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.lblLoginUser = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.lblPageChange = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.lblUsername = new System.Windows.Forms.Label();
             this.lblPage = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.pnlChangePage = new System.Windows.Forms.Panel();
-            this.lblPageChange = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.lblLoginUser = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
             this.SuspendLayout();
@@ -72,7 +72,7 @@
             this.btnSetTable.Name = "btnSetTable";
             this.btnSetTable.Size = new System.Drawing.Size(201, 59);
             this.btnSetTable.TabIndex = 5;
-            this.btnSetTable.Text = "Set a Table";
+            this.btnSetTable.Text = "Đặt Bàn";
             this.btnSetTable.Click += new System.EventHandler(this.btnSetTable_Click);
             // 
             // btnExit
@@ -106,7 +106,7 @@
             this.btnKitchen.Name = "btnKitchen";
             this.btnKitchen.Size = new System.Drawing.Size(201, 59);
             this.btnKitchen.TabIndex = 2;
-            this.btnKitchen.Text = "Kitchen";
+            this.btnKitchen.Text = "Bếp";
             this.btnKitchen.Click += new System.EventHandler(this.btnKitchen_Click);
             // 
             // btnTableStatus
@@ -122,7 +122,7 @@
             this.btnTableStatus.Name = "btnTableStatus";
             this.btnTableStatus.Size = new System.Drawing.Size(198, 59);
             this.btnTableStatus.TabIndex = 1;
-            this.btnTableStatus.Text = "Table Status";
+            this.btnTableStatus.Text = "Tình Trạng Bàn";
             this.btnTableStatus.Click += new System.EventHandler(this.btnTableStatus_Click);
             // 
             // btnHome
@@ -138,7 +138,7 @@
             this.btnHome.Name = "btnHome";
             this.btnHome.Size = new System.Drawing.Size(201, 59);
             this.btnHome.TabIndex = 0;
-            this.btnHome.Text = "Home";
+            this.btnHome.Text = "Trang Chủ";
             this.btnHome.Click += new System.EventHandler(this.btnHome_Click);
             // 
             // logo
@@ -163,6 +163,33 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(1223, 79);
             this.panel3.TabIndex = 2;
+            // 
+            // guna2Panel1
+            // 
+            this.guna2Panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("guna2Panel1.BackgroundImage")));
+            this.guna2Panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.guna2Panel1.Location = new System.Drawing.Point(947, 24);
+            this.guna2Panel1.Name = "guna2Panel1";
+            this.guna2Panel1.Size = new System.Drawing.Size(45, 38);
+            this.guna2Panel1.TabIndex = 4;
+            // 
+            // lblLoginUser
+            // 
+            this.lblLoginUser.BackColor = System.Drawing.Color.Transparent;
+            this.lblLoginUser.Location = new System.Drawing.Point(1014, 35);
+            this.lblLoginUser.Name = "lblLoginUser";
+            this.lblLoginUser.Size = new System.Drawing.Size(108, 18);
+            this.lblLoginUser.TabIndex = 3;
+            this.lblLoginUser.Text = "guna2HtmlLabel1";
+            // 
+            // lblPageChange
+            // 
+            this.lblPageChange.BackColor = System.Drawing.Color.Transparent;
+            this.lblPageChange.Location = new System.Drawing.Point(116, 35);
+            this.lblPageChange.Name = "lblPageChange";
+            this.lblPageChange.Size = new System.Drawing.Size(108, 18);
+            this.lblPageChange.TabIndex = 2;
+            this.lblPageChange.Text = "guna2HtmlLabel1";
             // 
             // lblUsername
             // 
@@ -189,33 +216,6 @@
             this.pnlChangePage.Name = "pnlChangePage";
             this.pnlChangePage.Size = new System.Drawing.Size(1220, 597);
             this.pnlChangePage.TabIndex = 8;
-            // 
-            // lblPageChange
-            // 
-            this.lblPageChange.BackColor = System.Drawing.Color.Transparent;
-            this.lblPageChange.Location = new System.Drawing.Point(116, 35);
-            this.lblPageChange.Name = "lblPageChange";
-            this.lblPageChange.Size = new System.Drawing.Size(108, 18);
-            this.lblPageChange.TabIndex = 2;
-            this.lblPageChange.Text = "guna2HtmlLabel1";
-            // 
-            // lblLoginUser
-            // 
-            this.lblLoginUser.BackColor = System.Drawing.Color.Transparent;
-            this.lblLoginUser.Location = new System.Drawing.Point(1014, 35);
-            this.lblLoginUser.Name = "lblLoginUser";
-            this.lblLoginUser.Size = new System.Drawing.Size(108, 18);
-            this.lblLoginUser.TabIndex = 3;
-            this.lblLoginUser.Text = "guna2HtmlLabel1";
-            // 
-            // guna2Panel1
-            // 
-            this.guna2Panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("guna2Panel1.BackgroundImage")));
-            this.guna2Panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.guna2Panel1.Location = new System.Drawing.Point(947, 24);
-            this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(45, 38);
-            this.guna2Panel1.TabIndex = 4;
             // 
             // frmUIEmployee
             // 

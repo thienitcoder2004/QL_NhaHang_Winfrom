@@ -51,6 +51,7 @@
     <Reference Include="System.Design" />
     <Reference Include="System.Management" />
     <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -67,6 +68,12 @@
     </Compile>
     <Compile Include="Admin\frmUIAdmin.Designer.cs">
       <DependentUpon>frmUIAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserControl\AddFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\UserControl\AddFood.Designer.cs">
+      <DependentUpon>AddFood.cs</DependentUpon>
     </Compile>
     <Compile Include="Employee\frmUIEmployee.cs">
       <SubType>Form</SubType>
@@ -106,8 +113,47 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Admin\UserControl\UC_Employee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\UserControl\UC_Employee.Designer.cs">
+      <DependentUpon>UC_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserControl\UC_Statistical.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\UserControl\UC_Statistical.Designer.cs">
+      <DependentUpon>UC_Statistical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserControl\UC_TableStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\UserControl\UC_TableStatus.Designer.cs">
+      <DependentUpon>UC_TableStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserControl\UC_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\UserControl\UC_Home.Designer.cs">
+      <DependentUpon>UC_Home.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Admin\frmUIAdmin.resx">
       <DependentUpon>frmUIAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UserControl\AddFood.resx">
+      <DependentUpon>AddFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UserControl\UC_Employee.resx">
+      <DependentUpon>UC_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UserControl\UC_Home.resx">
+      <DependentUpon>UC_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UserControl\UC_Statistical.resx">
+      <DependentUpon>UC_Statistical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UserControl\UC_TableStatus.resx">
+      <DependentUpon>UC_TableStatus.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Employee\frmUIEmployee.resx">
       <DependentUpon>frmUIEmployee.cs</DependentUpon>
@@ -156,9 +202,7 @@
       <Name>RestaurantManagement.BUS</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Admin\UserControl\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

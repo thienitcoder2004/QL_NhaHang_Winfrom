@@ -29,5 +29,10 @@ namespace RestaurantManagement.GUI.Employee
         {
 
         }
+
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
