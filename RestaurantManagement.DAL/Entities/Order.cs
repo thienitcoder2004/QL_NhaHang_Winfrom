@@ -23,6 +23,6 @@ namespace RestaurantManagement.DAL.Entities
         [ForeignKey("Reservation")]
         [StringLength(5)]
         public string MaDB { get; set; }
-        public virtual ICollection<Reservation> Reservation { get; set; }
+        public virtual Reservation Reservation { get; set; }
     }
 }

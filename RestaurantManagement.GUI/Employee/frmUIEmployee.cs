@@ -22,7 +22,7 @@ namespace RestaurantManagement.GUI.Employee
         }
 
 
-        private void addController(UserControl userControl)
+        private void addController(System.Windows.Forms.UserControl userControl)
         {
             userControl.Dock = DockStyle.Fill;
             pnlChangePage.Controls.Clear();

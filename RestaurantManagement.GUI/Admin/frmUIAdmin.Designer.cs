@@ -33,7 +33,6 @@
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.btnExit = new Guna.UI2.WinForms.Guna2CircleButton();
-            this.btnTableStatus = new Guna.UI2.WinForms.Guna2Button();
             this.btnHome = new Guna.UI2.WinForms.Guna2Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
@@ -52,7 +51,6 @@
             this.panel1.Controls.Add(this.guna2Button2);
             this.panel1.Controls.Add(this.guna2Button1);
             this.panel1.Controls.Add(this.btnExit);
-            this.panel1.Controls.Add(this.btnTableStatus);
             this.panel1.Controls.Add(this.btnHome);
             this.panel1.Location = new System.Drawing.Point(12, 94);
             this.panel1.Name = "panel1";
@@ -68,7 +66,7 @@
             this.guna2Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.guna2Button2.ForeColor = System.Drawing.Color.White;
-            this.guna2Button2.Location = new System.Drawing.Point(3, 275);
+            this.guna2Button2.Location = new System.Drawing.Point(3, 204);
             this.guna2Button2.Name = "guna2Button2";
             this.guna2Button2.Size = new System.Drawing.Size(198, 59);
             this.guna2Button2.TabIndex = 6;
@@ -84,7 +82,7 @@
             this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(3, 200);
+            this.guna2Button1.Location = new System.Drawing.Point(6, 129);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.Size = new System.Drawing.Size(198, 59);
             this.guna2Button1.TabIndex = 5;
@@ -108,22 +106,6 @@
             this.btnExit.Size = new System.Drawing.Size(78, 64);
             this.btnExit.TabIndex = 4;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click_1);
-            // 
-            // btnTableStatus
-            // 
-            this.btnTableStatus.BorderRadius = 30;
-            this.btnTableStatus.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnTableStatus.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnTableStatus.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnTableStatus.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnTableStatus.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btnTableStatus.ForeColor = System.Drawing.Color.White;
-            this.btnTableStatus.Location = new System.Drawing.Point(6, 125);
-            this.btnTableStatus.Name = "btnTableStatus";
-            this.btnTableStatus.Size = new System.Drawing.Size(198, 59);
-            this.btnTableStatus.TabIndex = 1;
-            this.btnTableStatus.Text = "Tình Trạng Bàn";
-            this.btnTableStatus.Click += new System.EventHandler(this.btnTableStatus_Click);
             // 
             // btnHome
             // 
@@ -239,7 +221,6 @@
         private System.Windows.Forms.Panel panel1;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private Guna.UI2.WinForms.Guna2CircleButton btnExit;
-        private Guna.UI2.WinForms.Guna2Button btnTableStatus;
         private Guna.UI2.WinForms.Guna2Button btnHome;
         private System.Windows.Forms.Panel panel3;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;

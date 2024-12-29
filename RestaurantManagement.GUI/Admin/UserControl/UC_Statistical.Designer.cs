@@ -1,6 +1,6 @@
 ﻿namespace RestaurantManagement.GUI
 {
-    partial class UserControl2
+    partial class UC_Statistical
     {
         /// <summary> 
         /// Required designer variable.

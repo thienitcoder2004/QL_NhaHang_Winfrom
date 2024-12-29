@@ -30,13 +30,14 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UC_Employee));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnSearch = new Guna.UI2.WinForms.Guna2Button();
+            this.txtSearch = new Guna.UI2.WinForms.Guna2TextBox();
             this.dgvEmployee = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtSearch = new Guna.UI2.WinForms.Guna2TextBox();
-            this.btnSearch = new Guna.UI2.WinForms.Guna2Button();
+            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnRemote = new Guna.UI2.WinForms.Guna2Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -45,8 +46,10 @@
             this.txtEmployeeID = new System.Windows.Forms.TextBox();
             this.txtFullName = new System.Windows.Forms.TextBox();
             this.txtPhoneNumber = new System.Windows.Forms.TextBox();
-            this.cmbPosition = new System.Windows.Forms.ComboBox();
             this.btnAddUpdate = new Guna.UI2.WinForms.Guna2Button();
+            this.txtMoney = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtPosition = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvEmployee)).BeginInit();
             this.SuspendLayout();
@@ -61,6 +64,47 @@
             this.panel1.Size = new System.Drawing.Size(686, 597);
             this.panel1.TabIndex = 0;
             // 
+            // btnSearch
+            // 
+            this.btnSearch.BackColor = System.Drawing.Color.White;
+            this.btnSearch.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSearch.BackgroundImage")));
+            this.btnSearch.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnSearch.BorderColor = System.Drawing.Color.Gray;
+            this.btnSearch.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnSearch.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnSearch.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnSearch.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnSearch.FillColor = System.Drawing.Color.Transparent;
+            this.btnSearch.FocusedColor = System.Drawing.Color.Transparent;
+            this.btnSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnSearch.ForeColor = System.Drawing.Color.White;
+            this.btnSearch.Location = new System.Drawing.Point(442, 20);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(50, 32);
+            this.btnSearch.TabIndex = 12;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            // 
+            // txtSearch
+            // 
+            this.txtSearch.BorderThickness = 0;
+            this.txtSearch.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtSearch.DefaultText = "";
+            this.txtSearch.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txtSearch.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txtSearch.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtSearch.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtSearch.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtSearch.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtSearch.Location = new System.Drawing.Point(54, 20);
+            this.txtSearch.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtSearch.Name = "txtSearch";
+            this.txtSearch.PasswordChar = '\0';
+            this.txtSearch.PlaceholderText = "";
+            this.txtSearch.SelectedText = "";
+            this.txtSearch.Size = new System.Drawing.Size(438, 32);
+            this.txtSearch.TabIndex = 11;
+            // 
             // dgvEmployee
             // 
             this.dgvEmployee.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -68,7 +112,8 @@
             this.Column1,
             this.Column2,
             this.Column3,
-            this.Column4});
+            this.Column4,
+            this.Column5});
             this.dgvEmployee.Location = new System.Drawing.Point(3, 76);
             this.dgvEmployee.Name = "dgvEmployee";
             this.dgvEmployee.RowHeadersWidth = 51;
@@ -104,45 +149,12 @@
             this.Column4.Name = "Column4";
             this.Column4.Width = 125;
             // 
-            // txtSearch
+            // Column5
             // 
-            this.txtSearch.BorderThickness = 0;
-            this.txtSearch.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txtSearch.DefaultText = "";
-            this.txtSearch.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.txtSearch.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.txtSearch.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.txtSearch.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.txtSearch.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtSearch.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtSearch.Location = new System.Drawing.Point(54, 20);
-            this.txtSearch.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txtSearch.Name = "txtSearch";
-            this.txtSearch.PasswordChar = '\0';
-            this.txtSearch.PlaceholderText = "";
-            this.txtSearch.SelectedText = "";
-            this.txtSearch.Size = new System.Drawing.Size(325, 32);
-            this.txtSearch.TabIndex = 11;
-            // 
-            // btnSearch
-            // 
-            this.btnSearch.BackColor = System.Drawing.Color.White;
-            this.btnSearch.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSearch.BackgroundImage")));
-            this.btnSearch.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnSearch.BorderColor = System.Drawing.Color.Gray;
-            this.btnSearch.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnSearch.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnSearch.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnSearch.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnSearch.FillColor = System.Drawing.Color.Transparent;
-            this.btnSearch.FocusedColor = System.Drawing.Color.Transparent;
-            this.btnSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.btnSearch.ForeColor = System.Drawing.Color.White;
-            this.btnSearch.Location = new System.Drawing.Point(329, 20);
-            this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(50, 32);
-            this.btnSearch.TabIndex = 12;
+            this.Column5.HeaderText = "Lương";
+            this.Column5.MinimumWidth = 6;
+            this.Column5.Name = "Column5";
+            this.Column5.Width = 125;
             // 
             // btnRemote
             // 
@@ -152,7 +164,7 @@
             this.btnRemote.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnRemote.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnRemote.ForeColor = System.Drawing.Color.White;
-            this.btnRemote.Location = new System.Drawing.Point(989, 449);
+            this.btnRemote.Location = new System.Drawing.Point(989, 484);
             this.btnRemote.Name = "btnRemote";
             this.btnRemote.Size = new System.Drawing.Size(154, 49);
             this.btnRemote.TabIndex = 17;
@@ -222,15 +234,6 @@
             this.txtPhoneNumber.Size = new System.Drawing.Size(278, 30);
             this.txtPhoneNumber.TabIndex = 7;
             // 
-            // cmbPosition
-            // 
-            this.cmbPosition.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.cmbPosition.FormattingEnabled = true;
-            this.cmbPosition.Location = new System.Drawing.Point(865, 257);
-            this.cmbPosition.Name = "cmbPosition";
-            this.cmbPosition.Size = new System.Drawing.Size(278, 33);
-            this.cmbPosition.TabIndex = 8;
-            // 
             // btnAddUpdate
             // 
             this.btnAddUpdate.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
@@ -239,19 +242,47 @@
             this.btnAddUpdate.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnAddUpdate.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnAddUpdate.ForeColor = System.Drawing.Color.White;
-            this.btnAddUpdate.Location = new System.Drawing.Point(731, 449);
+            this.btnAddUpdate.Location = new System.Drawing.Point(731, 484);
             this.btnAddUpdate.Name = "btnAddUpdate";
             this.btnAddUpdate.Size = new System.Drawing.Size(145, 49);
             this.btnAddUpdate.TabIndex = 18;
             this.btnAddUpdate.Text = "Thêm / Sửa NV";
             // 
+            // txtMoney
+            // 
+            this.txtMoney.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.txtMoney.Location = new System.Drawing.Point(865, 413);
+            this.txtMoney.Name = "txtMoney";
+            this.txtMoney.Size = new System.Drawing.Size(278, 30);
+            this.txtMoney.TabIndex = 19;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.label5.Location = new System.Drawing.Point(726, 418);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(67, 25);
+            this.label5.TabIndex = 20;
+            this.label5.Text = "Lương";
+            // 
+            // txtPosition
+            // 
+            this.txtPosition.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.txtPosition.Location = new System.Drawing.Point(865, 262);
+            this.txtPosition.Name = "txtPosition";
+            this.txtPosition.Size = new System.Drawing.Size(278, 30);
+            this.txtPosition.TabIndex = 21;
+            // 
             // UC_Employee
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.txtPosition);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.txtMoney);
             this.Controls.Add(this.btnRemote);
             this.Controls.Add(this.btnAddUpdate);
-            this.Controls.Add(this.cmbPosition);
             this.Controls.Add(this.txtPhoneNumber);
             this.Controls.Add(this.txtFullName);
             this.Controls.Add(this.txtEmployeeID);
@@ -287,7 +318,10 @@
         private System.Windows.Forms.TextBox txtEmployeeID;
         private System.Windows.Forms.TextBox txtFullName;
         private System.Windows.Forms.TextBox txtPhoneNumber;
-        private System.Windows.Forms.ComboBox cmbPosition;
         private Guna.UI2.WinForms.Guna2Button btnAddUpdate;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
+        private System.Windows.Forms.TextBox txtMoney;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox txtPosition;
     }
 }

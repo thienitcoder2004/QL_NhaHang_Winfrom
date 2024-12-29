@@ -16,7 +16,7 @@ namespace RestaurantManagement.GUI.Admin
             lblPageChange.Text = "Trang Chủ";
         }
 
-        private void addController(UserControl userControl)
+        private void addController(System.Windows.Forms.UserControl userControl)
         {
             userControl.Dock = DockStyle.Fill;
             pnlChangePage.Controls.Clear();
@@ -42,13 +42,6 @@ namespace RestaurantManagement.GUI.Admin
             UC_Home uc_Home = new UC_Home();
             addController(uc_Home);
             lblPageChange.Text = "Trang Chủ";
-        }
-
-        private void btnTableStatus_Click(object sender, EventArgs e)
-        {
-            UC_TableStatus uc_TableStatus = new UC_TableStatus();
-            addController(uc_TableStatus);
-            lblPageChange.Text = "Tình Trạng Bàn";
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)

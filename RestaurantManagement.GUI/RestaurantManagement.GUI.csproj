@@ -69,40 +69,34 @@
     <Compile Include="Admin\frmUIAdmin.Designer.cs">
       <DependentUpon>frmUIAdmin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Admin\UserControl\AddFood.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Admin\UserControl\AddFood.Designer.cs">
-      <DependentUpon>AddFood.cs</DependentUpon>
-    </Compile>
     <Compile Include="Employee\frmUIEmployee.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Employee\frmUIEmployee.Designer.cs">
       <DependentUpon>frmUIEmployee.cs</DependentUpon>
     </Compile>
-    <Compile Include="Employee\UserControl\UC_SetTable.cs">
+    <Compile Include="Employee\UserControl1\UC_SetTable.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Employee\UserControl\UC_SetTable.Designer.cs">
+    <Compile Include="Employee\UserControl1\UC_SetTable.Designer.cs">
       <DependentUpon>UC_SetTable.cs</DependentUpon>
     </Compile>
-    <Compile Include="Employee\UserControl\UC_Kitchen.cs">
+    <Compile Include="Employee\UserControl1\UC_Kitchen.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Employee\UserControl\UC_Kitchen.Designer.cs">
+    <Compile Include="Employee\UserControl1\UC_Kitchen.Designer.cs">
       <DependentUpon>UC_Kitchen.cs</DependentUpon>
     </Compile>
-    <Compile Include="Employee\UserControl\UC_TableStatus.cs">
+    <Compile Include="Employee\UserControl1\UC_TableStatus.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Employee\UserControl\UC_TableStatus.Designer.cs">
+    <Compile Include="Employee\UserControl1\UC_TableStatus.Designer.cs">
       <DependentUpon>UC_TableStatus.cs</DependentUpon>
     </Compile>
-    <Compile Include="Employee\UserControl\UC_Home.cs">
+    <Compile Include="Employee\UserControl1\UC_Home.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Employee\UserControl\UC_Home.Designer.cs">
+    <Compile Include="Employee\UserControl1\UC_Home.Designer.cs">
       <DependentUpon>UC_Home.cs</DependentUpon>
     </Compile>
     <Compile Include="frmLogin.cs">
@@ -125,12 +119,6 @@
     <Compile Include="Admin\UserControl\UC_Statistical.Designer.cs">
       <DependentUpon>UC_Statistical.cs</DependentUpon>
     </Compile>
-    <Compile Include="Admin\UserControl\UC_TableStatus.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Admin\UserControl\UC_TableStatus.Designer.cs">
-      <DependentUpon>UC_TableStatus.cs</DependentUpon>
-    </Compile>
     <Compile Include="Admin\UserControl\UC_Home.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -139,9 +127,6 @@
     </Compile>
     <EmbeddedResource Include="Admin\frmUIAdmin.resx">
       <DependentUpon>frmUIAdmin.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Admin\UserControl\AddFood.resx">
-      <DependentUpon>AddFood.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Admin\UserControl\UC_Employee.resx">
       <DependentUpon>UC_Employee.cs</DependentUpon>
@@ -152,22 +137,19 @@
     <EmbeddedResource Include="Admin\UserControl\UC_Statistical.resx">
       <DependentUpon>UC_Statistical.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Admin\UserControl\UC_TableStatus.resx">
-      <DependentUpon>UC_TableStatus.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Employee\frmUIEmployee.resx">
       <DependentUpon>frmUIEmployee.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Employee\UserControl\UC_Home.resx">
+    <EmbeddedResource Include="Employee\UserControl1\UC_Home.resx">
       <DependentUpon>UC_Home.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Employee\UserControl\UC_Kitchen.resx">
+    <EmbeddedResource Include="Employee\UserControl1\UC_Kitchen.resx">
       <DependentUpon>UC_Kitchen.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Employee\UserControl\UC_SetTable.resx">
+    <EmbeddedResource Include="Employee\UserControl1\UC_SetTable.resx">
       <DependentUpon>UC_SetTable.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Employee\UserControl\UC_TableStatus.resx">
+    <EmbeddedResource Include="Employee\UserControl1\UC_TableStatus.resx">
       <DependentUpon>UC_TableStatus.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
@@ -200,6 +182,10 @@
     <ProjectReference Include="..\RestaurantManagement.BUS\RestaurantManagement.BUS.csproj">
       <Project>{abb1f87d-81f1-415a-9c54-523e8c590c20}</Project>
       <Name>RestaurantManagement.BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RestaurantManagement.DAL\RestaurantManagement.DAL.csproj">
+      <Project>{77bf3cb9-2f9c-48c0-8668-1668fa56de97}</Project>
+      <Name>RestaurantManagement.DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

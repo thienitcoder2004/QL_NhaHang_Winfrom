@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RestaurantManagement.GUI
 {
-    public partial class UserControl2 : UserControl
+    public partial class UC_Statistical : UserControl
     {
-        public UserControl2()
+        public UC_Statistical()
         {
             InitializeComponent();
         }
