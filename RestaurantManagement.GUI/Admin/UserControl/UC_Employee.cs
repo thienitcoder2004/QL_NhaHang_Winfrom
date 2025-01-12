@@ -43,7 +43,7 @@ namespace RestaurantManagement.GUI
         {
             txtEmployeeID.Clear();
             txtFullName.Clear();
-            txtPosition.Clear();
+            cmbPosition.SelectedIndex = 0;
             txtPhoneNumber.Clear();
             txtMoney.Clear();
         }
@@ -54,7 +54,8 @@ namespace RestaurantManagement.GUI
                 string tennv = txtSearch.Text;
                 if (string.IsNullOrEmpty(tennv))
                 {
-                    throw new Exception("Vui lòng nhập mã nhân viên cần tìm kiếm!");
+                    throw new Exception("Vui lòng nhập tên nhân viên cần tìm kiếm!");
+                    BindGrid(employeeService.GetAll());
                 }
                 var employee = employeeService.FindByHoTen(txtSearch.Text);
                 if (employee != null)
@@ -86,12 +87,12 @@ namespace RestaurantManagement.GUI
                 MessageBox.Show("Họ và tên nhân viên không hợp lệ.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
             }
-            if (string.IsNullOrEmpty(txtPosition.Text))
+            if (string.IsNullOrEmpty(cmbPosition.SelectedItem.ToString()))
             {
                 MessageBox.Show("Vui lòng nhập chức vụ nhân viên.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
             }
-            if (string.IsNullOrEmpty(txtPhoneNumber.Text) || txtPhoneNumber.Text.Length != 11)
+            if (string.IsNullOrEmpty(txtPhoneNumber.Text) || txtPhoneNumber.Text.Length != 10)
             {
                 MessageBox.Show("Số điện thoại nhân viên không hợp lệ.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
@@ -110,11 +111,13 @@ namespace RestaurantManagement.GUI
             try
             {
                 if (!ValidateInput()) return;
+
+
                 var employee = employeeService.FindByID(txtEmployeeID.Text) ?? new DAL.Entities.Employee();
 
                 employee.MaNV = txtEmployeeID.Text;
                 employee.TenNV = txtFullName.Text;
-                employee.ChucVu = txtPosition.Text;
+                employee.ChucVu = cmbPosition.SelectedItem.ToString();
                 employee.SDT = txtPhoneNumber.Text;
                 employee.Luong = Decimal.Parse(txtMoney.Text);
 
@@ -152,5 +155,19 @@ namespace RestaurantManagement.GUI
                 MessageBox.Show("Lỗi thông tin", "Thông Báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
             }
         }
+
+        private void dgvEmployee_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if(e.RowIndex >= 0)
+            {
+                DataGridViewRow row = dgvEmployee.Rows[e.RowIndex];
+                txtEmployeeID.Text = row.Cells[0].Value?.ToString();
+                txtFullName.Text = row.Cells[1].Value?.ToString();
+                cmbPosition.Text = row.Cells[2].Value?.ToString();
+                txtPhoneNumber.Text = row.Cells[3].Value?.ToString();
+                txtMoney.Text = row.Cells[4].Value?.ToString();
+            }
+        }
+
     }
 }

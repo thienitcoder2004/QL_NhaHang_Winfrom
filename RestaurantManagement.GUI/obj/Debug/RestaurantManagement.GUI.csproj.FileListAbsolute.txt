@@ -17,10 +17,8 @@ C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Deb
 C:\Users\acer\source\repos\RestaurantManagement\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\acer\Desktop\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.AssemblyReference.cache
 C:\Users\acer\Desktop\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Admin.frmUIAdmin.resources
-C:\Users\acer\Desktop\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Admin.UserControl.AddFood.resources
 C:\Users\acer\Desktop\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Employee.resources
 C:\Users\acer\Desktop\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Home.resources
-C:\Users\acer\Desktop\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_TableStatus.resources
 C:\Users\acer\Desktop\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.frmUIEmployee.resources
 C:\Users\acer\Desktop\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Home.resources
 C:\Users\acer\Desktop\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Kitchen.resources
@@ -79,3 +77,459 @@ C:\Users\Ngoc Thien\Downloads\QL_NhaHang\QL_NhaHang\RestaurantManagement.GUI\bin
 C:\Users\Ngoc Thien\Downloads\QL_NhaHang\QL_NhaHang\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.pdb
 C:\Users\Ngoc Thien\Downloads\QL_NhaHang\QL_NhaHang\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll.config
 C:\Users\Ngoc Thien\Downloads\QL_NhaHang\QL_NhaHang\RestaurantManagement.GUI\obj\Debug\Restaura.BB893DD6.Up2Date
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe.config
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\EntityFramework.dll
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\Guna.UI2.dll
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\EntityFramework.xml
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Admin.frmUIAdmin.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Employee.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Home.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Statistical.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.frmUIEmployee.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Home.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Kitchen.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_SetTable.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_TableStatus.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmLogin.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Properties.Resources.resources
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\Restaura.BB893DD6.Up2Date
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\Desktop\1111\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe.config
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\EntityFramework.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\Guna.UI2.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\EntityFramework.xml
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Admin.frmUIAdmin.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Employee.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Home.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Statistical.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.frmUIEmployee.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Home.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Kitchen.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_SetTable.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_TableStatus.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmLogin.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Properties.Resources.resources
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\Restaura.BB893DD6.Up2Date
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\EnvDTE.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\stdole.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmBill.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe.config
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.pdb
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\EntityFramework.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\EnvDTE.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\stdole.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\EntityFramework.xml
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Admin.frmUIAdmin.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Employee.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Home.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Statistical.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.frmUIEmployee.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Home.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Kitchen.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_SetTable.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_TableStatus.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmBill.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmLogin.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Properties.Resources.resources
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.GenerateResource.cache
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\Restaura.BB893DD6.Up2Date
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.exe
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe.config
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\EntityFramework.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\Guna.UI2.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\EnvDTE.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\stdole.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\EntityFramework.xml
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Admin.frmUIAdmin.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Employee.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Home.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Statistical.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.frmUIEmployee.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Seats.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Home.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_SetTable.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_TableStatus.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmBill.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmLogin.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Properties.Resources.resources
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\Restaura.BB893DD6.Up2Date
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.GUI\bin\Debug\rptBill.rdlc
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\rptBill.rdlc
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe.config
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.pdb
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\EntityFramework.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\Guna.UI2.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\EnvDTE.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\stdole.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\EntityFramework.xml
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Admin.frmUIAdmin.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Employee.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Home.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Statistical.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.frmUIEmployee.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Seats.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Home.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_SetTable.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_TableStatus.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmBill.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmLogin.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Properties.Resources.resources
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\Restaura.BB893DD6.Up2Date
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.exe
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.pdb
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\rptBill.rdlc
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe.config
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.exe
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.GUI.pdb
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\EntityFramework.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\EnvDTE.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\stdole.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\EntityFramework.xml
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Admin.frmUIAdmin.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Employee.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Home.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.UC_Statistical.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.frmUIEmployee.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Seats.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_Home.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_SetTable.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Employee.UC_TableStatus.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmBill.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.frmLogin.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.Properties.Resources.resources
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.GenerateResource.cache
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\Restaura.BB893DD6.Up2Date
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.exe
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.GUI\obj\Debug\RestaurantManagement.GUI.pdb

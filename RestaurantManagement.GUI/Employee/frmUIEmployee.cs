@@ -37,16 +37,9 @@ namespace RestaurantManagement.GUI.Employee
             lblPageChange.Text = "Trang Chủ";
         }
 
-        private void btnKitchen_Click(object sender, EventArgs e)
-        {
-            UC_Kitchen uc_Kitchen = new UC_Kitchen();
-            addController(uc_Kitchen);
-            lblPageChange.Text = "Bếp";
-        }
-
         private void btnTableStatus_Click(object sender, EventArgs e)
         {
-            UC_TableStatus uc_TableStatus = new UC_TableStatus();
+            UC_TableStatus uc_TableStatus = new UC_TableStatus(loggedInUsername);
             addController(uc_TableStatus);
             lblPageChange.Text = "Tình Trạng Bàn";
         }
@@ -76,5 +69,13 @@ namespace RestaurantManagement.GUI.Employee
             frmLogin.Show();
             Hide();
         }
+
+        private void btnSeats_Click(object sender, EventArgs e)
+        {
+            UC_Seats uc_Seats = new UC_Seats();
+            addController(uc_Seats);
+            lblPageChange.Text = "Xếp Chỗ";
+        }
+
     }
 }

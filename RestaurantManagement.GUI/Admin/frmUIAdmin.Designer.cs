@@ -48,13 +48,14 @@
             // 
             // panel1
             // 
+            this.panel1.BackColor = System.Drawing.Color.Transparent;
             this.panel1.Controls.Add(this.guna2Button2);
             this.panel1.Controls.Add(this.guna2Button1);
             this.panel1.Controls.Add(this.btnExit);
             this.panel1.Controls.Add(this.btnHome);
-            this.panel1.Location = new System.Drawing.Point(12, 94);
+            this.panel1.Location = new System.Drawing.Point(12, 133);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(207, 597);
+            this.panel1.Size = new System.Drawing.Size(207, 558);
             this.panel1.TabIndex = 9;
             // 
             // guna2Button2
@@ -64,8 +65,10 @@
             this.guna2Button2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.guna2Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.guna2Button2.FillColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.guna2Button2.ForeColor = System.Drawing.Color.White;
+            this.guna2Button2.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(255)))));
             this.guna2Button2.Location = new System.Drawing.Point(3, 204);
             this.guna2Button2.Name = "guna2Button2";
             this.guna2Button2.Size = new System.Drawing.Size(198, 59);
@@ -80,9 +83,11 @@
             this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.guna2Button1.FillColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(6, 129);
+            this.guna2Button1.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(255)))));
+            this.guna2Button1.Location = new System.Drawing.Point(3, 119);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.Size = new System.Drawing.Size(198, 59);
             this.guna2Button1.TabIndex = 5;
@@ -100,7 +105,7 @@
             this.btnExit.FillColor = System.Drawing.Color.Transparent;
             this.btnExit.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnExit.ForeColor = System.Drawing.Color.White;
-            this.btnExit.Location = new System.Drawing.Point(115, 519);
+            this.btnExit.Location = new System.Drawing.Point(111, 491);
             this.btnExit.Name = "btnExit";
             this.btnExit.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.btnExit.Size = new System.Drawing.Size(78, 64);
@@ -109,14 +114,17 @@
             // 
             // btnHome
             // 
+            this.btnHome.BackColor = System.Drawing.Color.Transparent;
             this.btnHome.BorderRadius = 30;
             this.btnHome.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnHome.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnHome.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btnHome.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnHome.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnHome.FillColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.btnHome.Font = new System.Drawing.Font("Segoe UI", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnHome.ForeColor = System.Drawing.Color.White;
-            this.btnHome.Location = new System.Drawing.Point(3, 48);
+            this.btnHome.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(255)))));
+            this.btnHome.Location = new System.Drawing.Point(3, 36);
             this.btnHome.Name = "btnHome";
             this.btnHome.Size = new System.Drawing.Size(201, 59);
             this.btnHome.TabIndex = 0;
@@ -125,18 +133,20 @@
             // 
             // panel3
             // 
+            this.panel3.BackColor = System.Drawing.Color.Transparent;
             this.panel3.Controls.Add(this.guna2Panel1);
             this.panel3.Controls.Add(this.lblLoginUser);
             this.panel3.Controls.Add(this.lblPageChange);
             this.panel3.Controls.Add(this.lblUsername);
             this.panel3.Controls.Add(this.lblPage);
-            this.panel3.Location = new System.Drawing.Point(247, 12);
+            this.panel3.Location = new System.Drawing.Point(225, 12);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1223, 79);
+            this.panel3.Size = new System.Drawing.Size(1245, 79);
             this.panel3.TabIndex = 11;
             // 
             // guna2Panel1
             // 
+            this.guna2Panel1.BackColor = System.Drawing.Color.White;
             this.guna2Panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("guna2Panel1.BackgroundImage")));
             this.guna2Panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.guna2Panel1.Location = new System.Drawing.Point(947, 24);
@@ -147,18 +157,22 @@
             // lblLoginUser
             // 
             this.lblLoginUser.BackColor = System.Drawing.Color.Transparent;
-            this.lblLoginUser.Location = new System.Drawing.Point(1014, 35);
+            this.lblLoginUser.Font = new System.Drawing.Font("Segoe UI", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.lblLoginUser.ForeColor = System.Drawing.Color.White;
+            this.lblLoginUser.Location = new System.Drawing.Point(998, 29);
             this.lblLoginUser.Name = "lblLoginUser";
-            this.lblLoginUser.Size = new System.Drawing.Size(108, 18);
+            this.lblLoginUser.Size = new System.Drawing.Size(172, 30);
             this.lblLoginUser.TabIndex = 3;
             this.lblLoginUser.Text = "guna2HtmlLabel1";
             // 
             // lblPageChange
             // 
             this.lblPageChange.BackColor = System.Drawing.Color.Transparent;
-            this.lblPageChange.Location = new System.Drawing.Point(116, 35);
+            this.lblPageChange.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPageChange.ForeColor = System.Drawing.Color.White;
+            this.lblPageChange.Location = new System.Drawing.Point(93, 20);
             this.lblPageChange.Name = "lblPageChange";
-            this.lblPageChange.Size = new System.Drawing.Size(108, 18);
+            this.lblPageChange.Size = new System.Drawing.Size(195, 33);
             this.lblPageChange.TabIndex = 2;
             this.lblPageChange.Text = "guna2HtmlLabel1";
             // 
@@ -183,6 +197,7 @@
             // 
             // logo
             // 
+            this.logo.BackColor = System.Drawing.Color.Snow;
             this.logo.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("logo.BackgroundImage")));
             this.logo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.logo.Location = new System.Drawing.Point(12, 12);
@@ -193,15 +208,18 @@
             // 
             // pnlChangePage
             // 
-            this.pnlChangePage.Location = new System.Drawing.Point(247, 94);
+            this.pnlChangePage.BackColor = System.Drawing.Color.Transparent;
+            this.pnlChangePage.Location = new System.Drawing.Point(225, 94);
             this.pnlChangePage.Name = "pnlChangePage";
-            this.pnlChangePage.Size = new System.Drawing.Size(1220, 597);
+            this.pnlChangePage.Size = new System.Drawing.Size(1242, 597);
             this.pnlChangePage.TabIndex = 12;
             // 
             // frmUIAdmin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(245)))), ((int)(((byte)(255)))));
+            this.BackgroundImage = global::RestaurantManagement.GUI.Properties.Resources.anhchinh;
             this.ClientSize = new System.Drawing.Size(1482, 703);
             this.Controls.Add(this.logo);
             this.Controls.Add(this.panel1);
@@ -209,6 +227,7 @@
             this.Controls.Add(this.pnlChangePage);
             this.Name = "frmUIAdmin";
             this.Text = "frmUIAdmin";
+            this.Load += new System.EventHandler(this.frmUIAdmin_Load);
             this.panel1.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();

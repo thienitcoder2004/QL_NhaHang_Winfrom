@@ -32,7 +32,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnSetTable = new Guna.UI2.WinForms.Guna2Button();
             this.btnExit = new Guna.UI2.WinForms.Guna2CircleButton();
-            this.btnKitchen = new Guna.UI2.WinForms.Guna2Button();
+            this.btnSeats = new Guna.UI2.WinForms.Guna2Button();
             this.btnTableStatus = new Guna.UI2.WinForms.Guna2Button();
             this.btnHome = new Guna.UI2.WinForms.Guna2Button();
             this.logo = new System.Windows.Forms.Panel();
@@ -49,14 +49,15 @@
             // 
             // panel1
             // 
+            this.panel1.BackColor = System.Drawing.Color.Transparent;
             this.panel1.Controls.Add(this.btnSetTable);
             this.panel1.Controls.Add(this.btnExit);
-            this.panel1.Controls.Add(this.btnKitchen);
+            this.panel1.Controls.Add(this.btnSeats);
             this.panel1.Controls.Add(this.btnTableStatus);
             this.panel1.Controls.Add(this.btnHome);
-            this.panel1.Location = new System.Drawing.Point(12, 94);
+            this.panel1.Location = new System.Drawing.Point(12, 128);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(207, 597);
+            this.panel1.Size = new System.Drawing.Size(207, 563);
             this.panel1.TabIndex = 0;
             // 
             // btnSetTable
@@ -66,9 +67,12 @@
             this.btnSetTable.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnSetTable.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btnSetTable.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnSetTable.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnSetTable.FillColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.btnSetTable.Font = new System.Drawing.Font("Segoe UI", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnSetTable.ForeColor = System.Drawing.Color.White;
-            this.btnSetTable.Location = new System.Drawing.Point(3, 280);
+            this.btnSetTable.HoverState.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnSetTable.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(255)))));
+            this.btnSetTable.Location = new System.Drawing.Point(6, 290);
             this.btnSetTable.Name = "btnSetTable";
             this.btnSetTable.Size = new System.Drawing.Size(201, 59);
             this.btnSetTable.TabIndex = 5;
@@ -86,28 +90,31 @@
             this.btnExit.FillColor = System.Drawing.Color.Transparent;
             this.btnExit.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnExit.ForeColor = System.Drawing.Color.White;
-            this.btnExit.Location = new System.Drawing.Point(115, 519);
+            this.btnExit.Location = new System.Drawing.Point(126, 496);
             this.btnExit.Name = "btnExit";
             this.btnExit.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.btnExit.Size = new System.Drawing.Size(78, 64);
             this.btnExit.TabIndex = 4;
             this.btnExit.Click += new System.EventHandler(this.guna2CircleButton1_Click);
             // 
-            // btnKitchen
+            // btnSeats
             // 
-            this.btnKitchen.BorderRadius = 30;
-            this.btnKitchen.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnKitchen.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnKitchen.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnKitchen.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnKitchen.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btnKitchen.ForeColor = System.Drawing.Color.White;
-            this.btnKitchen.Location = new System.Drawing.Point(3, 201);
-            this.btnKitchen.Name = "btnKitchen";
-            this.btnKitchen.Size = new System.Drawing.Size(201, 59);
-            this.btnKitchen.TabIndex = 2;
-            this.btnKitchen.Text = "Bếp";
-            this.btnKitchen.Click += new System.EventHandler(this.btnKitchen_Click);
+            this.btnSeats.BorderRadius = 30;
+            this.btnSeats.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnSeats.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnSeats.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnSeats.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnSeats.FillColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.btnSeats.Font = new System.Drawing.Font("Segoe UI", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnSeats.ForeColor = System.Drawing.Color.White;
+            this.btnSeats.HoverState.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnSeats.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(255)))));
+            this.btnSeats.Location = new System.Drawing.Point(3, 202);
+            this.btnSeats.Name = "btnSeats";
+            this.btnSeats.Size = new System.Drawing.Size(201, 59);
+            this.btnSeats.TabIndex = 2;
+            this.btnSeats.Text = "Xếp Chỗ";
+            this.btnSeats.Click += new System.EventHandler(this.btnSeats_Click);
             // 
             // btnTableStatus
             // 
@@ -116,9 +123,12 @@
             this.btnTableStatus.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnTableStatus.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btnTableStatus.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnTableStatus.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnTableStatus.FillColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.btnTableStatus.Font = new System.Drawing.Font("Segoe UI", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnTableStatus.ForeColor = System.Drawing.Color.White;
-            this.btnTableStatus.Location = new System.Drawing.Point(6, 125);
+            this.btnTableStatus.HoverState.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnTableStatus.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(255)))));
+            this.btnTableStatus.Location = new System.Drawing.Point(6, 114);
             this.btnTableStatus.Name = "btnTableStatus";
             this.btnTableStatus.Size = new System.Drawing.Size(198, 59);
             this.btnTableStatus.TabIndex = 1;
@@ -127,14 +137,18 @@
             // 
             // btnHome
             // 
+            this.btnHome.BackColor = System.Drawing.Color.Transparent;
             this.btnHome.BorderRadius = 30;
             this.btnHome.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnHome.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnHome.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btnHome.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnHome.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnHome.FillColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.btnHome.Font = new System.Drawing.Font("Segoe UI", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnHome.ForeColor = System.Drawing.Color.White;
-            this.btnHome.Location = new System.Drawing.Point(3, 48);
+            this.btnHome.HoverState.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnHome.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(255)))));
+            this.btnHome.Location = new System.Drawing.Point(3, 23);
             this.btnHome.Name = "btnHome";
             this.btnHome.Size = new System.Drawing.Size(201, 59);
             this.btnHome.TabIndex = 0;
@@ -145,6 +159,7 @@
             // 
             this.logo.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("logo.BackgroundImage")));
             this.logo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.logo.ForeColor = System.Drawing.Color.Black;
             this.logo.Location = new System.Drawing.Point(12, 12);
             this.logo.Name = "logo";
             this.logo.Size = new System.Drawing.Size(207, 115);
@@ -154,6 +169,7 @@
             // 
             // panel3
             // 
+            this.panel3.BackColor = System.Drawing.Color.Transparent;
             this.panel3.Controls.Add(this.guna2Panel1);
             this.panel3.Controls.Add(this.lblLoginUser);
             this.panel3.Controls.Add(this.lblPageChange);
@@ -166,8 +182,10 @@
             // 
             // guna2Panel1
             // 
+            this.guna2Panel1.BackColor = System.Drawing.Color.White;
             this.guna2Panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("guna2Panel1.BackgroundImage")));
             this.guna2Panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.guna2Panel1.ForeColor = System.Drawing.Color.White;
             this.guna2Panel1.Location = new System.Drawing.Point(947, 24);
             this.guna2Panel1.Name = "guna2Panel1";
             this.guna2Panel1.Size = new System.Drawing.Size(45, 38);
@@ -176,18 +194,22 @@
             // lblLoginUser
             // 
             this.lblLoginUser.BackColor = System.Drawing.Color.Transparent;
-            this.lblLoginUser.Location = new System.Drawing.Point(1014, 35);
+            this.lblLoginUser.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.lblLoginUser.ForeColor = System.Drawing.Color.White;
+            this.lblLoginUser.Location = new System.Drawing.Point(998, 32);
             this.lblLoginUser.Name = "lblLoginUser";
-            this.lblLoginUser.Size = new System.Drawing.Size(108, 18);
+            this.lblLoginUser.Size = new System.Drawing.Size(161, 30);
             this.lblLoginUser.TabIndex = 3;
             this.lblLoginUser.Text = "guna2HtmlLabel1";
             // 
             // lblPageChange
             // 
             this.lblPageChange.BackColor = System.Drawing.Color.Transparent;
-            this.lblPageChange.Location = new System.Drawing.Point(116, 35);
+            this.lblPageChange.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.lblPageChange.ForeColor = System.Drawing.Color.White;
+            this.lblPageChange.Location = new System.Drawing.Point(95, 24);
             this.lblPageChange.Name = "lblPageChange";
-            this.lblPageChange.Size = new System.Drawing.Size(108, 18);
+            this.lblPageChange.Size = new System.Drawing.Size(195, 33);
             this.lblPageChange.TabIndex = 2;
             this.lblPageChange.Text = "guna2HtmlLabel1";
             // 
@@ -212,6 +234,8 @@
             // 
             // pnlChangePage
             // 
+            this.pnlChangePage.BackColor = System.Drawing.Color.Transparent;
+            this.pnlChangePage.ForeColor = System.Drawing.Color.Transparent;
             this.pnlChangePage.Location = new System.Drawing.Point(247, 94);
             this.pnlChangePage.Name = "pnlChangePage";
             this.pnlChangePage.Size = new System.Drawing.Size(1220, 597);
@@ -221,6 +245,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(245)))), ((int)(((byte)(255)))));
+            this.BackgroundImage = global::RestaurantManagement.GUI.Properties.Resources.anhchinh;
             this.ClientSize = new System.Drawing.Size(1482, 703);
             this.Controls.Add(this.pnlChangePage);
             this.Controls.Add(this.panel3);
@@ -242,7 +268,7 @@
         private System.Windows.Forms.Panel logo;
         private System.Windows.Forms.Panel panel3;
         private Guna.UI2.WinForms.Guna2Button btnHome;
-        private Guna.UI2.WinForms.Guna2Button btnKitchen;
+        private Guna.UI2.WinForms.Guna2Button btnSeats;
         private Guna.UI2.WinForms.Guna2Button btnTableStatus;
         private Guna.UI2.WinForms.Guna2HtmlLabel lblPage;
         private Guna.UI2.WinForms.Guna2CircleButton btnExit;

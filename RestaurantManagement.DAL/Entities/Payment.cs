@@ -18,9 +18,6 @@ namespace RestaurantManagement.DAL.Entities
 
         public DateTime NgayTT { get; set; }
 
-        [StringLength(50)]
-        public string PTThanhToan { get; set; }
-
         [ForeignKey("Order")]
         [StringLength(5)]
         public string MaDH { set; get; }

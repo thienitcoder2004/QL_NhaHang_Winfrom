@@ -43,3 +43,78 @@ C:\Users\Ngoc Thien\Downloads\QL_NhaHang\QL_NhaHang\RestaurantManagement.BUS\obj
 C:\Users\Ngoc Thien\Downloads\QL_NhaHang\QL_NhaHang\RestaurantManagement.BUS\obj\Debug\Restaura.6C8C9BA7.Up2Date
 C:\Users\Ngoc Thien\Downloads\QL_NhaHang\QL_NhaHang\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.dll
 C:\Users\Ngoc Thien\Downloads\QL_NhaHang\QL_NhaHang\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\EntityFramework.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\EntityFramework.xml
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\obj\Debug\Restaura.6C8C9BA7.Up2Date
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\2222\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.pdb
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\EntityFramework.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\EntityFramework.xml
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.AssemblyReference.cache
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\obj\Debug\Restaura.6C8C9BA7.Up2Date
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.dll
+C:\Users\Ngoc Thien\Downloads\2222\2222\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\EntityFramework.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\EntityFramework.xml
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\obj\Debug\Restaura.6C8C9BA7.Up2Date
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\ooooo\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\EntityFramework.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\EntityFramework.xml
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\obj\Debug\Restaura.6C8C9BA7.Up2Date
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.dll
+C:\Users\acer\Desktop\pppppppp\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.pdb
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll.config
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.BUS.pdb
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\EntityFramework.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.pdb
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\RestaurantManagement.DAL.dll.config
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\EntityFramework.xml
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.AssemblyReference.cache
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\obj\Debug\Restaura.6C8C9BA7.Up2Date
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.dll
+C:\Users\Ngoc Thien\Downloads\pppppppp\pppppppp\RestaurantManagement.BUS\obj\Debug\RestaurantManagement.BUS.pdb

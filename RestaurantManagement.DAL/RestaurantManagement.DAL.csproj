@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BillReport.cs" />
     <Compile Include="Entities\Customer.cs" />
     <Compile Include="Entities\Employee.cs" />
     <Compile Include="Entities\Menu.cs" />
@@ -61,12 +62,22 @@
     <Compile Include="Entities\RestaurantManagementDBContext.cs" />
     <Compile Include="Entities\Revenue.cs" />
     <Compile Include="Entities\Table.cs" />
+    <Compile Include="InformationReport.cs" />
+    <Compile Include="Migrations\202501040858562_initialCreateDB.cs" />
+    <Compile Include="Migrations\202501040858562_initialCreateDB.Designer.cs">
+      <DependentUpon>202501040858562_initialCreateDB.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202501040858562_initialCreateDB.resx">
+      <DependentUpon>202501040858562_initialCreateDB.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

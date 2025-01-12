@@ -1,4 +1,5 @@
-﻿using RestaurantManagement.GUI.Admin;
+﻿using RestaurantManagement.BUS;
+using RestaurantManagement.GUI.Admin;
 using RestaurantManagement.GUI.Employee;
 using System;
 using System.Collections.Generic;
@@ -8,6 +9,7 @@ namespace RestaurantManagement.GUI
 {
     public partial class frmLogin : Form
     {
+        private readonly EmployeeService employeeService = new EmployeeService();
         private List<User> users = new List<User>();
         // Biến tạm lưu vai trò người dùng (admin hoặc employee)
         private string role = "";
@@ -22,7 +24,28 @@ namespace RestaurantManagement.GUI
             // Tạo danh sách tài khoản với vai trò
             users.Add(new User { Username = "1", Password = "1", Role = "admin" });
             users.Add(new User { Username = "2", Password = "2", Role = "employee" });
-            users.Add(new User { Username = "3", Password = "3", Role = "employee" });
+
+            try
+            {
+                var employees = employeeService.GetAll();
+                // Tạo tài khoản đăng nhập từ danh sách nhân viên
+                foreach (var employee in employees)
+                {
+                    string role = employee.ChucVu == "Quản Lý" ? "admin" : "employee";
+
+                    // Thêm tài khoản vào danh sách
+                    users.Add(new User
+                    {
+                        Username = employee.MaNV,
+                        Password = employee.SDT, // Mật khẩu là số điện thoại
+                        Role = role
+                    });  
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Lỗi khi tải danh sách tài khoản: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private bool ValidateLogin(string username, string password, out string userRole)
@@ -71,6 +94,10 @@ namespace RestaurantManagement.GUI
         {
             Application.Exit();
         }
+
+
+        //Hello World Github
+
     }
 
     public class User

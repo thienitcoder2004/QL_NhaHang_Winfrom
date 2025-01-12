@@ -1,46 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\",
+  "WorkspaceRootPath": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_tablestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_tablestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_tablestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_tablestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\pppppppp\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\restaurantmanagement.gui\\employee\\frmuiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\frmuiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABB1F87D-81F1-415A-9C54-523E8C590C20}|RestaurantManagement.BUS\\RestaurantManagement.BUS.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.bus\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB1F87D-81F1-415A-9C54-523E8C590C20}|RestaurantManagement.BUS\\RestaurantManagement.BUS.csproj|solutionrelative:restaurantmanagement.bus\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\employee\\frmuiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\frmuiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABB1F87D-81F1-415A-9C54-523E8C590C20}|RestaurantManagement.BUS\\RestaurantManagement.BUS.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.bus\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB1F87D-81F1-415A-9C54-523E8C590C20}|RestaurantManagement.BUS\\RestaurantManagement.BUS.csproj|solutionrelative:restaurantmanagement.bus\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\admin\\frmuiadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\frmuiadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.gui\\admin\\usercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\usercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\admin\\frmuiadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\frmuiadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.gui\\admin\\usercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\usercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\pppppppp\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\restaurantmanagement.gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|solutionrelative:restaurantmanagement.dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\pppppppp\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\restaurantmanagement.gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\ql_nhahang\\ql_nhahang\\restaurantmanagement.gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\admin\\usercontrol\\uc_statistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\usercontrol\\uc_statistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\admin\\usercontrol\\uc_statistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\usercontrol\\uc_statistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\admin\\usercontrol\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\usercontrol\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\admin\\usercontrol\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\usercontrol\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\admin\\usercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\usercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\admin\\usercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\admin\\usercontrol\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\pppppppp\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|c:\\users\\ngoc thien\\downloads\\pppppppp\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\qu\u1EA3n l\u00FD nh\u00E0 h\u00E0ng\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_settable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_settable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\employee\\usercontrol1\\uc_settable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\employee\\usercontrol1\\uc_settable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.dal\\migrations\\202501040858562_initialcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|solutionrelative:restaurantmanagement.dal\\migrations\\202501040858562_initialcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F09BD7B1-964E-4818-BC23-2C87BBDBB2B3}|RestaurantManagement.GUI\\RestaurantManagement.GUI.csproj|solutionrelative:restaurantmanagement.gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB1F87D-81F1-415A-9C54-523E8C590C20}|RestaurantManagement.BUS\\RestaurantManagement.BUS.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ABB1F87D-81F1-415A-9C54-523E8C590C20}|RestaurantManagement.BUS\\RestaurantManagement.BUS.csproj|solutionrelative:restaurantmanagement.bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\restaurantmanagement.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{77BF3CB9-2F9C-48C0-8668-1668FA56DE97}|RestaurantManagement.DAL\\RestaurantManagement.DAL.csproj|solutionrelative:restaurantmanagement.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,134 +117,303 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UC_Kitchen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Kitchen.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Kitchen.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Kitchen.cs [Design]",
-              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Kitchen.cs [Design]",
+              "Title": "frmUIEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T10:06:16.97Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuService.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.BUS\\MenuService.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.BUS\\MenuService.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.BUS\\MenuService.cs",
-              "RelativeToolTip": "RestaurantManagement.BUS\\MenuService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:54:46.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.BUS\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.BUS\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.BUS\\EmployeeService.cs",
-              "RelativeToolTip": "RestaurantManagement.BUS\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:52:26.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UC_Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs [Design]",
-              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:27:45.663Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UC_Home.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
-              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:29:30.569Z",
+              "WhenOpened": "2025-01-04T12:12:23.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UC_Employee.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs [Design]",
-              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs [Design]",
+              "Title": "frmUIAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:55:26.664Z",
+              "WhenOpened": "2025-01-04T09:14:14.107Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UC_Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
-              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwCwAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "frmUIAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\frmUIAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:55:29.718Z",
+              "WhenOpened": "2025-01-04T09:14:16.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_TableStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_TableStatus.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_TableStatus.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_TableStatus.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_TableStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:33:44.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_TableStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_TableStatus.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_TableStatus.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_TableStatus.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_TableStatus.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:32:47.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\frmLogin.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:11:53.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.DAL\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.DAL\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.DAL\\Entities\\Employee.cs",
-              "RelativeToolTip": "RestaurantManagement.DAL\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\frmLogin.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\frmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:52:21.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T12:11:52.036Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\frmLogin.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\frmLogin.cs",
-              "RelativeToolTip": "RestaurantManagement.GUI\\frmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "frmUIEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\frmUIEmployee.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:42:51.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T09:15:54.683Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\frmLogin.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\QL_NhaHang\\QL_NhaHang\\RestaurantManagement.GUI\\frmLogin.cs [Design]",
-              "RelativeToolTip": "RestaurantManagement.GUI\\frmLogin.cs [Design]",
+              "Title": "UC_Seats.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Seats.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Seats.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Seats.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Seats.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:42:49.477Z",
+              "WhenOpened": "2025-01-04T08:33:33.286Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_Home.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAtwDABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:15:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:33:31.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_Statistical.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Statistical.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Statistical.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Statistical.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Statistical.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAlwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:15:02.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_Statistical.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Statistical.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Statistical.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Statistical.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Statistical.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:14:59.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_Home.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Home.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Home.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Home.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Home.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAvwO4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:14:35.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Home.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Home.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Home.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:14:34.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwDsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:14:21.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Admin\\UserControl\\UC_Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:14:20.476Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_Seats.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Seats.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Seats.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Seats.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_Seats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:03:32.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_SetTable.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_SetTable.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_SetTable.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_SetTable.cs",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_SetTable.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:37:14.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_SetTable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_SetTable.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_SetTable.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\Employee\\UserControl1\\UC_SetTable.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement.GUI\\Employee\\UserControl1\\UC_SetTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:33:27.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "202501040858562_initialCreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.DAL\\Migrations\\202501040858562_initialCreateDB.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.DAL\\Migrations\\202501040858562_initialCreateDB.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.DAL\\Migrations\\202501040858562_initialCreateDB.cs",
+              "RelativeToolTip": "RestaurantManagement.DAL\\Migrations\\202501040858562_initialCreateDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:59:09.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\App.config",
+              "RelativeDocumentMoniker": "RestaurantManagement.GUI\\App.config",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.GUI\\App.config",
+              "RelativeToolTip": "RestaurantManagement.GUI\\App.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-04T08:58:09.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.BUS\\App.config",
+              "RelativeDocumentMoniker": "RestaurantManagement.BUS\\App.config",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.BUS\\App.config",
+              "RelativeToolTip": "RestaurantManagement.BUS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-04T08:57:57.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.DAL\\App.config",
+              "RelativeDocumentMoniker": "RestaurantManagement.DAL\\App.config",
+              "ToolTip": "C:\\Users\\Ngoc Thien\\Downloads\\pppppppp\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\Qu\u1EA3n L\u00FD Nh\u00E0 H\u00E0ng\\RestaurantManagement.DAL\\App.config",
+              "RelativeToolTip": "RestaurantManagement.DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-04T08:57:34.446Z"
             }
           ]
         }
